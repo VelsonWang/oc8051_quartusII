@@ -1,0 +1,539 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/fuvuukk/Desktop/oc8051/simulation/modelsim
+T_opt
+!s110 1556894671
+VQ5bXQ8QOC^B3@3H=HGGXO0
+04 9 4 work oc8051_tb fast 0
+=1-c0335e2d07ad-5ccc53ce-22a-7d0
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneii_ver -L rtl_work -L work +acc
+n@_opt
+OL;O;10.4;61
+R0
+voc8051_acc
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 U2I5IKCMgB@JAOgdkfJM^2
+IYjkd4UL`hESVeB]Ej[2[a3
+R0
+w1556870364
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_acc.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_acc.v
+L0 51
+Z2 OL;L;10.4;61
+!s108 1556894668.585000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_acc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_acc.v|
+!i113 0
+Z3 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 !s92 -vlog01compat -work work +incdir+C:/Users/fuvuukk/Desktop/oc8051 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+voc8051_altera_rom
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 9Z:SI]YbDMl6H<CXcnT^;0
+IEYkd;LYQdeYEV2`YRa^Ok0
+R0
+w1556861957
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_altera_rom.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_altera_rom.v
+L0 39
+R2
+!s108 1556894662.123000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_altera_rom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_altera_rom.v|
+!i113 0
+R3
+R4
+voc8051_alu
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 CBR:dd<J7MAYgkz7GOmI;0
+IL9UD[BRF=2LagX4Vn4]lE1
+R0
+Z5 w1057092459
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_alu.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_alu.v
+L0 89
+R2
+!s108 1556894668.335000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_alu.v|
+!i113 0
+R3
+R4
+voc8051_alu_src_sel
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 MZIz=ZHZ>Z]:]Q5Wh5CLB3
+I`0JgSm<OAEKDK=c]a:3T23
+R0
+w1556870358
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_alu_src_sel.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_alu_src_sel.v
+L0 52
+R2
+!s108 1556894668.085000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_alu_src_sel.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_alu_src_sel.v|
+!i113 0
+R3
+R4
+voc8051_b_register
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 eS`]l4;NVl99@O:SVi]R:0
+IiQ>a0k`9c`K9N>f_PlWVX2
+R0
+Z6 w1049905444
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_b_register.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_b_register.v
+Z7 L0 65
+R2
+!s108 1556894667.788000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_b_register.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_b_register.v|
+!i113 0
+R3
+R4
+voc8051_comp
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 N0ZHcXQ6jkN>7G[Pz3oC`2
+Iji`1]XgmfDIYke:ZXGZ=K1
+R0
+R5
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_comp.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_comp.v
+Z8 L0 66
+R2
+!s108 1556894667.489000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_comp.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_comp.v|
+!i113 0
+R3
+R4
+voc8051_cy_select
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 NSCDiKQTeSo;1ggFQnWS31
+ID<W]c`0hM_8G5Z97<zWLK3
+R0
+R5
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_cy_select.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_cy_select.v
+Z9 L0 62
+R2
+!s108 1556894667.223000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_cy_select.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_cy_select.v|
+!i113 0
+R3
+R4
+voc8051_decoder
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 afjDY2XTeO:9:Z3eZ0?K93
+IV7:J2HI1=XgdFP;lVH?2Q3
+R0
+w1556868202
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_decoder.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_decoder.v
+L0 90
+R2
+!s108 1556894666.786000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_decoder.v|
+!i113 0
+R3
+R4
+voc8051_divide
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 W172e^k`WNh9j9M?LZOf53
+IPW5fc6B8`4;zRFdM_KNBV0
+R0
+Z10 w1049282781
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_divide.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_divide.v
+L0 57
+R2
+!s108 1556894661.716000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_divide.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_divide.v|
+!i113 0
+R3
+R4
+voc8051_dptr
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 2f8lzXzjTnVc>ZIeT7`A33
+Ij1PR1f^oJKdndd2IelUYU0
+R0
+R6
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_dptr.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_dptr.v
+R9
+R2
+!s108 1556894666.364000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_dptr.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_dptr.v|
+!i113 0
+R3
+R4
+voc8051_indi_addr
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 XaCCn@fU^VSdGDJPT]i5f1
+IgGHk40<S=ZKA0idB;l4k@0
+R0
+Z11 w1556868132
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_indi_addr.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_indi_addr.v
+Z12 L0 64
+R2
+!s108 1556894661.482000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_indi_addr.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_indi_addr.v|
+!i113 0
+R3
+R4
+voc8051_int
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 @EOO;nOe>h@[K9]>lL6RW3
+I^egdN]nL[Q^VemWWXCdf<2
+R0
+Z13 w1556868133
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_int.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_int.v
+L0 75
+R2
+!s108 1556894666.051000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_int.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_int.v|
+!i113 0
+R3
+R4
+voc8051_memory_interface
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 mG1GIcJWG0RA<5a331JIa2
+IPjIfb4QAg^oAkQLoGS<XW2
+R0
+R11
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_memory_interface.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_memory_interface.v
+L0 92
+R2
+!s108 1556894665.770000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_memory_interface.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_memory_interface.v|
+!i113 0
+R3
+R4
+voc8051_multiply
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 LQV0SbGkMPi7E9Ui]l]N@3
+I]@SKn:=eWS3kYFUJ<VHlL0
+R0
+R10
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_multiply.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_multiply.v
+R7
+R2
+!s108 1556894661.185000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_multiply.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_multiply.v|
+!i113 0
+R3
+R4
+voc8051_ports
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ;5@7MD:W_D]fI1jMaQ7PJ1
+IfRCloRno2Z9ke=;V@TIaC0
+R0
+R13
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_ports.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_ports.v
+L0 69
+R2
+!s108 1556894665.520000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_ports.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_ports.v|
+!i113 0
+R3
+R4
+voc8051_psw
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 m:e2U5MAJ?bU9P17O0O=N0
+ID>zlzNRfzb<j`aXgcoZTa3
+R0
+R11
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_psw.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_psw.v
+Z14 L0 72
+R2
+!s108 1556894665.254000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_psw.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_psw.v|
+!i113 0
+R3
+R4
+voc8051_ram_256x8_two_bist
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 FXhP5o`YHQMa^J;4Y`QQT2
+IWc[f[3UOMMedLCA`J=baJ1
+R0
+w1556862945
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_ram_256x8_two_bist.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_ram_256x8_two_bist.v
+L0 59
+R2
+!s108 1556894665.020000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_ram_256x8_two_bist.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_ram_256x8_two_bist.v|
+!i113 0
+R3
+R4
+voc8051_ram_top
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 DSPkG:QNf:6zelNd381J;2
+IKKiGgKFz<b016JLX:^=8D3
+R0
+w1056123021
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_ram_top.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_ram_top.v
+L0 77
+R2
+!s108 1556894664.770000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_ram_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_ram_top.v|
+!i113 0
+R3
+R4
+voc8051_rom
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 `mg9:7[6iJ>8=GX4i7IWC0
+I5WkhP;UEIQ>S<e8^WaCIh2
+R0
+w1556862629
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_rom.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_rom.v
+L0 4
+R2
+!s108 1556894664.546000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_rom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_rom.v|
+!i113 0
+R3
+R4
+voc8051_sfr
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 J=@SfF3eIP5FX;OCF2B=m1
+IcclPU9BN_B2K6NCiLTLC]1
+R0
+Z15 w1556868324
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_sfr.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_sfr.v
+L0 98
+R2
+!s108 1556894664.249000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_sfr.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_sfr.v|
+!i113 0
+R3
+R4
+voc8051_sp
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 Ce[AJB[0BGaziYMLkeOcG0
+IUmzYMViIB5]>@>REYam7l0
+R0
+w1049978706
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_sp.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_sp.v
+R8
+R2
+!s108 1556894663.983000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_sp.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_sp.v|
+!i113 0
+R3
+R4
+voc8051_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 Vm;ezBBX]^9o>Y=DWmj]83
+IoNKL[S9D;8XiV_Od^lKz?2
+R0
+w1556863354
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_tb.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_tb.v
+L0 7
+R2
+!s108 1556894668.835000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_tb.v|
+!i113 0
+R3
+R4
+voc8051_tc
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 741mf>e>[hF9cHU1VZTAi1
+ITSc24]7M@WB9F1T>`8W622
+R0
+R13
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_tc.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_tc.v
+R14
+R2
+!s108 1556894663.452000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_tc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_tc.v|
+!i113 0
+R3
+R4
+voc8051_tc2
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^;o1<Q3A_Y;_7^zdd3iEC3
+Iz7gcGMIomJl^eI]2bMPM90
+R0
+w1049727482
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_tc2.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_tc2.v
+R12
+R2
+!s108 1556894663.124000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_tc2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_tc2.v|
+!i113 0
+R3
+R4
+voc8051_top
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 [;DL94m0:B2Rz2<@8i;FD0
+IcDC82cHL9UG1lGjQF47_i2
+R0
+w1057096140
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_top.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_top.v
+L0 115
+R2
+!s108 1556894662.624000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_top.v|
+!i113 0
+R3
+R4
+voc8051_uart
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 z;QXTH6dLB12TKO3m]1H^3
+IQD_^P?FA4;WjA31XKLIOZ1
+R0
+R15
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_uart.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_uart.v
+L0 73
+R2
+!s108 1556894662.357000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_uart.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_uart.v|
+!i113 0
+R3
+R4

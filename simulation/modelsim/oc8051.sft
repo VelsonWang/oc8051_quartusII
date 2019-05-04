@@ -1,0 +1,5 @@
+set tool_name "ModelSim (Verilog)"
+set corner_file_list {
+	{{"Slow Model"} {oc8051.vo oc8051_v.sdo}}
+	{{"Fast Model"} {oc8051_fast.vo oc8051_v_fast.sdo}}
+}

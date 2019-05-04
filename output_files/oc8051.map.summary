@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri May 03 22:30:32 2019
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : oc8051
+Top-level Entity Name : oc8051_top
+Family : Cyclone II
+Total logic elements : 6,608
+    Total combinational functions : 4,355
+    Dedicated logic registers : 2,847
+Total registers : 2847
+Total pins : 164
+Total virtual pins : 0
+Total memory bits : 133,888
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

@@ -1,0 +1,60 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/fuvuukk/Desktop/oc8051/simulation/modelsim
+T_opt
+!s110 1556867231
+Vz;2hlU=fb:S9J;g=JWQYa0
+04 9 4 work oc8051_tb fast 0
+=1-c0335e2d07ad-5ccbe893-3b1-13e8
+o-quiet -auto_acc_if_foreign -work work -L cycloneii_ver -L gate_work -L work +acc
+n@_opt
+OL;O;10.4;61
+voc8051_tb
+!s110 1556867217
+!i10b 1
+!s100 Vm;ezBBX]^9o>Y=DWmj]83
+IoNKL[S9D;8XiV_Od^lKz?2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1556863354
+8C:/Users/fuvuukk/Desktop/oc8051/oc8051_tb.v
+FC:/Users/fuvuukk/Desktop/oc8051/oc8051_tb.v
+L0 7
+Z2 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1556867217.189000
+!s107 C:/Users/fuvuukk/Desktop/oc8051/oc8051_defines.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_timescale.v|C:/Users/fuvuukk/Desktop/oc8051/oc8051_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fuvuukk/Desktop/oc8051|C:/Users/fuvuukk/Desktop/oc8051/oc8051_tb.v|
+!i113 0
+Z3 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -vlog01compat -work work +incdir+C:/Users/fuvuukk/Desktop/oc8051 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+voc8051_top
+!s110 1556867216
+!i10b 1
+!s100 jM3G>K2BQI4:aV30Y0V410
+I51G;lkea3V5Elk=lED]jn3
+R1
+R0
+w1556867124
+8oc8051.vo
+Foc8051.vo
+L0 31
+R2
+r1
+!s85 0
+31
+!s108 1556867210.039000
+!s107 oc8051.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|oc8051.vo|
+!i113 0
+R3
+!s92 -vlog01compat -work work +incdir+. -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact

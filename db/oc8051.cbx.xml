@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="oc8051">
+		<CBX_INST_ENTRY INSTANCE_NAME="|oc8051_top|oc8051_alu:oc8051_alu1|oc8051_multiply:oc8051_mul1|lpm_mult:Mult0|multcore:mult_core|mpar_add:padder|lpm_add_sub:adder[0]" CBX_FILE_NAME="add_sub_57h.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|oc8051_top|oc8051_decoder:oc8051_decoder1|altsyncram:WideOr30_rtl_0" CBX_FILE_NAME="altsyncram_g201.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|oc8051_top|oc8051_rom:oc8051_rom1|oc8051_altera_rom:oc8051_altera_rom1|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_mpa1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
